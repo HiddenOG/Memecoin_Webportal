@@ -1,30 +1,14 @@
-# Responsive Portfolio Website Bianca
+# Ponshood
 
-This project is part of a step-by-step YouTube tutorial in which we build a responsive portfolio website Bianca from scratch using HTML, CSS and JavaScript.
+Ponshood is the first token ever launched on the Pons ecosystem — the mascot of the hood, and the one that doesn't die.
 
-## 🎬 [Watch the Demo & Code](https://youtu.be/JSFIGIA9Zrk) 
+## Links
+- Launchpad: https://ponsfamily.com/launchpad/0x432c99bbd9dc1d9040087598d7cf40502d7cc20b
+- X: https://x.com/ponshood
+- Telegram: https://t.me/ponshood_official
 
-![preview img](/preview.png) 
+## Contract Address
+`0x432c99bbd9dc1d9040087598d7cf40502d7cc20b`
 
-## 📌 Project Features
-- Fully responsive portfolio website Bianca (Mobile First Methodology).
-- Clear and semantic HTML structure.
-- Use of CSS variables and modern JavaScript functions.
-- Smooth scrolling between sections.
-- Scroll animations.
-- Compatible with all modern browsers and devices.
-
-## 📦 Download the resources directly
-1. Click the green **code** button.
-2. Click **Download ZIP**.
-3. Extract the ZIP file and open the project in your code editor.
-
-## 📥 Clone or Fork the repository
-You can **clone** the repository to your local machine or **fork** it in your GitHub account to get all the project's resources.
-
-```bash
-# Clone the repository using HTTPS
-git clone https://github.com/bedimcode/responsive-porfolio-website-Bianca.git
-```
-
-Designed & developed with ❤️ by **[Bedimcode](https://www.youtube.com/@Bedimcode)** 
+## Running locally
+Open `index.html` in a browser, or serve the folder with any static file server.
